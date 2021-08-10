@@ -33,7 +33,8 @@ As this gives us all the information which we need like: currencies, languages, 
 3) I have taken the region "Asia/Europe" from the environment variables. This needs to be present while running the application. This can be changed based on the requirements
 as it is mentioned that the region might change.
 
-Sample .env file:
+# Sample .env file:
 PORT=9000
+
 REGIONS=Asia,Europe
 
