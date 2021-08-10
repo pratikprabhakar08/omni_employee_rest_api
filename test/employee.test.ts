@@ -1,6 +1,6 @@
 import request from "supertest";
-import app from "../app";
-import { EmployeeInstance } from "../api/model/employee";
+import app from "../src/app";
+import { EmployeeInstance } from "../src/api/model/employee";
 
 describe("test create route", () => {
 	const employee = {
