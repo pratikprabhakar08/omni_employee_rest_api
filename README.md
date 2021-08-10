@@ -40,4 +40,5 @@ REGIONS=Asia,Europe
 
 # How to run the application:
 App: npm run dev
+
 Test: npm run test
